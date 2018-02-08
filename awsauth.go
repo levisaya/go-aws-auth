@@ -216,5 +216,6 @@ var (
 		"route53":              3,
 		"elasticloadbalancing": 4,
 		"email":                3,
+		"execute-api":		4,
 	}
 )
